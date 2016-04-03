@@ -1,4 +1,5 @@
-<center><img src="http://bleedingedgepress.com/wp-content/uploads/2016/03/BEP_Header.png"><center>
+<p align="center"><img src="http://bleedingedgepress.com/wp-content/uploads/2016/03/BEP_Header.png" alt="BEP"/></p>
+
 # Bleeding Edge Press Simple Drone Surveyor
 
 ## What this is
@@ -12,4 +13,6 @@ A UAS that is capable of surveying areas of land is a potentially massively usef
 
 ## Who wrote this?
   This code has been contributed to by all the Authors of the Book: 
-  [Alex Keyes](https://github.com/Alex-Keyes), Daniel Frenzel, Tihomir Nedev, Pepe Valverde and Jonas Vautherin.  
+  [Alex Keyes](https://github.com/Alex-Keyes), [Daniel Frenzel](https://github.com/dgrat), [Tihomir Nedev](https://github.com/tnedev), Pepe Valverde and [Jonas Vautherin](https://github.com/JonasVautherin).  
+  
+
