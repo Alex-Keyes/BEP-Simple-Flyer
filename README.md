@@ -1,1 +1,2 @@
 # BEP-Simple-Survey
+This is a simple app to allow an unmanned air system (a drone) to survey an predetermined area and create an NDVI map.  This code is meant to display the principles discussed in Deconstructing Drones for Developers, a book published by Bleeding Edge Press.  
