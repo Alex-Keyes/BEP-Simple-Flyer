@@ -9,7 +9,7 @@ This is a simple app to allow an unmanned air system (a drone or UAS) to fly bas
 Any Developer looking to learn more about developing for flying robots.  Those looking for a good starting point to develop their own projects can use this code as well.  
 
 ## Why is this useful?
-This demo provides a proof of concept for tbe book, as well as an excellent starting point for software developers new to the field of aerial robotics  
+This demo provides a proof of concept for the book, as well as an excellent starting point for software developers new to the field of aerial robotics  
 
 ## Install 
 
