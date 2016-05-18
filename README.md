@@ -3,7 +3,7 @@
 # Bleeding Edge Press Simple Drone Surveyor
 
 ## What this is
-This is a simple app to allow an unmanned air system (a drone or UAS) to fly basic patterns using frameworks and principles discussed in Deconstructing Drones for Developers, a book published by Bleeding Edge Press.  This app is meant to be platform independent, though running it on a UAS capable of fully autonomous flight would be ideal.  This package can also run completely in software, via simulator  
+This is a simple app to allow an unmanned air system (a drone or UAS) to fly basic patterns using frameworks and principles discussed in Deconstructing Drones for Developers, a book published by [Bleeding Edge Press](http://bleedingedgepress.com/).  This app is meant to be platform independent, though running it on a UAS capable of fully autonomous flight would be ideal.  This package can also run completely in software, via simulator  
 
 ## Who this is for
 Any Developer looking to learn more about developing for flying robots.  Those looking for a good starting point to develop their own projects can use this code as well.  
