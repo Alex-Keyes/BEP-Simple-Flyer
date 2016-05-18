@@ -11,8 +11,16 @@ Any Developer looking to learn more about developing for flying robots.  Those l
 ## Why is this useful?
 This demo provides a proof of concept for tbe book, as well as an excellent starting point for software developers new to the field of aerial robotics  
 
+## Install 
+
+1. clone this repo into your ROS catkin/src directory. If your don't know what this means or haven't installed ROS on your system please see the [ROS installation guide](http://wiki.ros.org/ROS/Installation) 
+2. Run catkin make to compile the package
+3. ????
+
 ## Who wrote this?
   This code has been contributed to by all the Authors of the Book: 
   [Alex Keyes](https://github.com/Alex-Keyes), [Daniel Frenzel](https://github.com/dgrat), [Tihomir Nedev](https://github.com/tnedev), Pepe Valverde and [Jonas Vautherin](https://github.com/JonasVautherin).  
+
+
   
 
