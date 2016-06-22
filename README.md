@@ -18,8 +18,8 @@ This demo provides a proof of concept for the book, as well as an excellent star
 3. ????
 
 ## Who wrote this?
-  This code has been contributed to by all the Authors of the Book: 
-  [Alex Keyes](https://github.com/Alex-Keyes), [Daniel Frenzel](https://github.com/dgrat), [Tihomir Nedev](https://github.com/tnedev), Pepe Valverde and [Jonas Vautherin](https://github.com/JonasVautherin).  
+  This code has been contributed to by: 
+  [Alex Keyes](https://github.com/Alex-Keyes) and [Tihomir Nedev](https://github.com/tnedev).  
 
 
   
